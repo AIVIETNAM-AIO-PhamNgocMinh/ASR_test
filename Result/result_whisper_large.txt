@@ -1,0 +1,15 @@
+=== KẾT QUẢ NHẬN DIỆN (Model: whisper - large-v3-turbo) ===
+[00:00:00 -> 00:00:10]  Nhét nhát, bẩn thiểu, ô nhiễm. Đó là hình ảnh bãi rác tự phát mà phóng viên truyền hình nhân dân ghi lại được tại ngõ 1194 ngách 103 đường láng Hà Nội.
+[00:00:10 -> 00:00:20]  Nằm giữa khu dân cư và có diện tích khoảng 300m2, hơn 10 năm nay, khu đất này đã trở thành nơi tập trung rác thải sinh hoạt của hơn 200 hữu dân sinh sống xung quanh.
+[00:00:21 -> 00:00:29]  Mặc dù thành phố đã có chủ trương sử dụng khu đất cho việc sãn dân, nhưng tới nay vẫn chưa có cơ quan chức năng nào đến kiểm tra xử lý.
+[00:00:30 -> 00:00:38]  Với đủ các loại sát thải sinh hoạt, cùng với thời tiết, oi bức của thủ đô, mùi từ bãi rác bốc lên rất khó chịu, gây ô nhiễm môi trường nghiêm trọng.
+[00:00:39 -> 00:00:45]  Không những thế, bãi rác tự phát này chính là nguyên nhân ảnh hưởng tới sức khỏe của người dân, đền hình như căn bệnh sốt sốt huyết.
+[00:00:46 -> 00:00:52]  Các hộ dân đang rất lo lắng và mong mỏi các cấp chính quyền sớm có giải pháp xử lý để ổn định cuộc sống.
+[00:00:52 -> 00:01:02]  Mỗi khi rở rời hoặc là mưa đến rất là khổ. Thế mà cái góc này của chúng tôi là năm ngoái bị sốt huyết rất là nhiều.
+[00:01:03 -> 00:01:10]  Cho nên là tha thiết là đề nghị cấp trên làm sao mà giải tỏa càng sớm càng tốt cho bà con người ta đỡ khổ.
+[00:01:10 -> 00:01:16]  Chúng tôi rất nhiều bức xúc đối với cái bãi rác này đã tồn tại hơn 10 năm nay.
+[00:01:16 -> 00:01:25]  Mà từ cái ngày có cái chủ trương tức là thu hồi đất để mà phân cho các cái hộ giản dân ở đường Nguyễn Trí Thanh.
+[00:01:25 -> 00:01:35]  Từ cái đất nhân dân đang canh tác sau thì trở thành một cái bãi chứa các cái chất thải của nhân dân
+[00:01:35 -> 00:01:39]  ở tất cả các cái khu xung quanh này mang đến đổ về đây.
+
+ Tổng thời gian xử lý của [large-v3-turbo]: 73.91 giây
